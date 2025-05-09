@@ -3,6 +3,7 @@
 
 # Release V2
 ```diff
+
 CATEGORIES
 + Settings
 + Main
@@ -11,29 +12,40 @@ CATEGORIES
 + Comp
 + Advantages
 + Visual
+
 SETTINGS
 + Main Settings
 + GunLib Settings
 + Notif Settings
++ Visual Settings
+
 MAIN SETTINGS
++ Change Menu Theme
 + Right Hand/Left Hand Menu
 + Flip Menu
 + FPS Counter
 + Disconnect Button
 + Delete Time
 + Disable Menu Text
+
 GUNLIB SETTINGS
 + Equip Gun
 + Smoothness
 + Gun Color
-+ Toggle Sphere Size
++ Toggle Sphere
+
 NOTIF SETTINGS
 + Notifications
 + Notif Delete Time
+
+VISUAL SETTINGS
++ Follow Menu Theme
+
 MAIN
 + Join Discord
 + Get All RPCS
 + No Finger Movement
+
 MOVEMENT
 + Platforms {G}
 + Platforms {T}
@@ -45,11 +57,13 @@ MOVEMENT
 + Fast Velocity Fly
 + Normal Velocity Fly
 + Slow Velocity Fly
+
 ROOM 
 + Disconnect
 + Disconnect {RT}
 + Disconnect {RG}
 + Disconnect {RJ}
+
 COMP
 + Unnoticable Speed Boost
 + Decent Speed Boost
@@ -70,10 +84,12 @@ COMP
 + Long Long Arms
 + Reset Arm Length
 + Predictions
+
 ADVANTAGES
 + Tag Gun
 + Tag All {RT}
 + Tag Aura {LAGGY}{RG}
+
 VISUALS
 + Tracers
 + Trails
