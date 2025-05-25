@@ -1,4 +1,4 @@
-# PETER GRIPPLE RATTED YOU NIKKER
+# comic.vip
 ## A GTAG Mod Menu.
 
 # Release V2
